@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Theorem</string>
+    <string name="app_name">Теорема Пифагора</string>
     <string name="title">Вычислить \"С\"</string>
     <string name="resultInfo">Результат:&#032;</string>
     <string name="inputA">Введите значение \"А\":</string>
