@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pythagorean theorem</string>
+    <string name="title">Calculate \"C\"</string>
+    <string name="resultInfo">Result:&#032;</string>
+    <string name="inputA">Enter the value \"A\":</string>
+    <string name="inputB">Enter the value \"B\":</string>
+    <string name="result">Calculate</string>
+</resources>
