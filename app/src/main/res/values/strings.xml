@@ -5,4 +5,5 @@
     <string name="inputA">Введите значение \"А\":</string>
     <string name="inputB">Введите значение \"B\":</string>
     <string name="result">Рассчитать</string>
+    <string name="description_img_Pythagorean_theorem">Изображение теоремы Пифагора</string>
 </resources>

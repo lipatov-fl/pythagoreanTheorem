@@ -28,7 +28,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/title"
-        app:srcCompat="@drawable/theorem" />
+        app:srcCompat="@drawable/theorem"
+        android:contentDescription="@string/description_img_Pythagorean_theorem" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline"

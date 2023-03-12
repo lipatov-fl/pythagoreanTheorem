@@ -6,4 +6,5 @@
     <string name="inputA">Enter the value \"A\":</string>
     <string name="inputB">Enter the value \"B\":</string>
     <string name="result">Calculate</string>
+    <string name="description_img_Pythagorean_theorem">Image of the Pythagorean theorem</string>
 </resources>
