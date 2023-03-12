@@ -93,7 +93,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:backgroundTint="#9C9C9C"
+        android:backgroundTint="@color/grey"
         android:onClick="onClickResult"
         android:text="@string/result"
         app:layout_constraintEnd_toEndOf="@+id/textInputLayoutB"
